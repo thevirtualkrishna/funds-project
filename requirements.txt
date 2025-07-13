@@ -1,2 +1,2 @@
-Flask==2.3.3
-gunicorn==21.2.0
+# install one by one to isolate the issue
+pip install <each_package>
