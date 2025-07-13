@@ -80,4 +80,4 @@ This project is built with **AI-assisted prototyping**. Prompts and idea iterati
 Aspiring Data Analyst | AI Enthusiast  
 📍 India  
 🔗 [LinkedIn](www.linkedin.com/in/
-sai-krishna-jella-a05a49231/)  
+sai-krishna-jella-a05a49231)  
