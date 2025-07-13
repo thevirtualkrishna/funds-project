@@ -79,4 +79,5 @@ This project is built with **AI-assisted prototyping**. Prompts and idea iterati
 **Saikrishna Jella**  
 Aspiring Data Analyst | AI Enthusiast  
 📍 India  
-🔗 [LinkedIn](https://www.linkedin.com/in/saikrishna-jella)  
+🔗 [LinkedIn](www.linkedin.com/in/
+sai-krishna-jella-a05a49231/)  
